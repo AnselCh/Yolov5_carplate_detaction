@@ -1,0 +1,6 @@
+train: '/content/drive/MyDrive/yolov5/img/images/train'
+val: '/content/drive/MyDrive/yolov5/img/images/train'
+
+nc: 1
+
+names: [ 'car_plate' ]
